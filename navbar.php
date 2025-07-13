@@ -5,7 +5,7 @@
 
       <!-- Logo -->
 <a href="#home" class="flex items-center">
-  <img src="/civilcoresolutions/images/logo.png"
+  <img src="images/logo.png"
        alt="Logo"
        class="h-20 sm:h-24 w-auto transition duration-300 hover:scale-110 drop-shadow-xl">
 </a>
